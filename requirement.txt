@@ -1,0 +1,9 @@
+hmmlearn==0.2.3
+joblib==0.14.1
+numpy==1.18.1
+opencv-python==4.2.0.32
+opencv-contrib-python==4.2.0.32
+pydub==0.23.1
+python-vlc==3.0.7110
+scikit-learn==0.22.2
+scipy==1.4.1
