@@ -1,4 +1,4 @@
-# GenerateBackgroundMusicFromDanceVideos
+﻿# GenerateBackgroundMusicFromDanceVideos
 
 Motion-Aware Sequencer is a loop sequencer based on the excitement of the video.
 
